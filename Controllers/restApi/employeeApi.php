@@ -218,8 +218,8 @@ class generateUrl{
             "version" => "latest",
             "region"  => "ap-south-1",
             "credentials" => array(
-                "key" => "AKIAWWLAX64FEH7QEFFX",
-                "secret" => "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",
+                "key" => " ",
+                "secret" => " ",
             ),
         ));
      
